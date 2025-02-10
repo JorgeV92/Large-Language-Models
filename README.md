@@ -36,7 +36,6 @@ This repository serves as both a research exploration platform and an educationa
 ---
 
 ## Project Structure
-A suggested structure for this repository might be:
 
 ```
 LLM-Project/
@@ -79,7 +78,6 @@ LLM-Project/
 - **requirements.txt**: List of dependencies for Python.  
 - **LICENSE**: License for this repository.
 
-Feel free to adjust the structure as the project evolves.
 
 ---
 
